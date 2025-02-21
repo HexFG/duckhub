@@ -603,7 +603,7 @@ local dragOffsetMobile = 150
 
 Rayfield.DisplayOrder = 100
 
-local Icons = loadstring(game:HttpGet('https://raw.githubusercontent.com/HexFG/Sensation/refs/heads/main/RayfieldIconsFix.lua'))()
+local Icons = loadstring(game:HttpGet('https://raw.githubusercontent.com/HexFG/duckhub/refs/heads/main/icons.lua'))()
 
 -- Variables
 local CFileName = nil
